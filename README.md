@@ -1,7 +1,9 @@
 # KICAD NUNCHUCK LIBRARY
 
+## Wii nunchuck connector library for kicad
+
 ### PCB 
-![pcb](./pcb.png)
+![nunchuck_connector_pcb](./pcb.png)
 
 ### SCHEMATIC
-![schematic](./schematic.png)
+![nunchuck_connector_schematic](./schematic.png)
